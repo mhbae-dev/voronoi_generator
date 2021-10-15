@@ -12,8 +12,8 @@ To run, press "Run Script" button on the MAXScript utility rollout, File > Run S
 
 For more information please refer to the PDF document.
 
-[architectural application.pdf](https://github.com/mhbae-dev/voronoi_generator/files/7354708/architectural.application.pdf)
-
+![Line illustration](https://user-images.githubusercontent.com/41869496/137522387-618f4f02-1aa0-4a02-9c52-3b9d22c34a10.jpg)
+![Generated Voronoi Cube](https://user-images.githubusercontent.com/41869496/137522470-840fde20-c34a-4a37-bd8a-45cf7aad9457.png)
 ![Generated cube and pebbles](https://user-images.githubusercontent.com/41869496/137521799-fb78b332-00c1-49ed-9713-0daa893f889c.png)
 
 [voronoi diagram]: https://en.wikipedia.org/wiki/Voronoi_diagram
